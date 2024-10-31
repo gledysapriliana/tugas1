@@ -83,7 +83,9 @@ class MyApp extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.only(right: 16,left: 16),
               child: Text(
-                "Sebuah persimpangan jalan di Barcelona,Spanyol.Foto ini menampilkan berbagai kendaraan yang bergerak dalam arah yang berbeda,menciptakan pemandangan yang sibuk dan energik.",textAlign:TextAlign.justify,),
+                "Sebuah persimpangan jalan di Barcelona,Spanyol.Foto ini menampilkan berbagai kendaraan yang 
+                bergerak dalam arah yang berbeda,menciptakan pemandangan yang sibuk dan energik.",
+                textAlign:TextAlign.justify,),
             )
           ],
         ),
